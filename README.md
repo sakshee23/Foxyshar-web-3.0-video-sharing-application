@@ -5,3 +5,4 @@ Foxy is a decentralized video-sharing application that leverages blockchain tech
 
 Set Up Your Profile
 
+![Screenshot (6)](https://github.com/sakshee23/Foxyshar-web-3.0-video-sharing-application/assets/69386473/84c39745-4439-4136-af6b-9df4e77ca31c)
