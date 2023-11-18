@@ -8,7 +8,7 @@ Click On Set Up Your Profile
 ![Screenshot (6)](https://github.com/sakshee23/Foxyshar-web-3.0-video-sharing-application/assets/69386473/84c39745-4439-4136-af6b-9df4e77ca31c)
 
 
-After Creating a profile landing on home of our appliaction
+After Creating a profile landing on the home of our application
 
 ![Screenshot (7)](https://github.com/sakshee23/Foxyshar-web-3.0-video-sharing-application/assets/69386473/0cc96381-3424-4773-852a-e193d11934d9)
 
@@ -19,4 +19,5 @@ User Account
 
 
 Project Demonstration Video
+
 https://github.com/sakshee23/Foxyshar-web-3.0-video-sharing-application/assets/69386473/7a19c5e4-95a8-4511-a171-417091b9ac88
