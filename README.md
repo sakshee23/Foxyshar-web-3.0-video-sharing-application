@@ -16,3 +16,5 @@ After Creating a profile landing on home of our appliaction
 User Account 
 
 ![Screenshot (8)](https://github.com/sakshee23/Foxyshar-web-3.0-video-sharing-application/assets/69386473/72e953b5-553c-4716-b3fb-9c0e32f09522)
+
+https://github.com/sakshee23/Foxyshar-web-3.0-video-sharing-application/assets/69386473/7a19c5e4-95a8-4511-a171-417091b9ac88
